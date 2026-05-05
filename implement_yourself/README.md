@@ -28,12 +28,6 @@ uv sync
 cp .env.example .env   # fill in GOOGLE_API_KEY at minimum
 ```
 
-If you want the eval tasks (#21–#24) to find the dataset, symlink the parent's:
-
-```bash
-ln -s ../datasets ./datasets
-```
-
 ---
 
 ## How the workshop runs

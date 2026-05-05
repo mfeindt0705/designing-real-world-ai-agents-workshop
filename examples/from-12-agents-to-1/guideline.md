@@ -21,3 +21,7 @@ Direct, opinionated, and practical. No fluff. Speak engineer-to-engineer. Use sh
 
 ## Constraints
 * Target ~1200 characters for the final post.
+
+## Resources
+
+- [Stop Overengineering: Workflows vs AI Agents Explained](https://www.youtube.com/watch?v=_rO2fv6tSsQ)
